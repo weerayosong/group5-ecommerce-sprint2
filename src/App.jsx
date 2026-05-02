@@ -1,4 +1,4 @@
-import DHomeScreen from "./screens/desktop/DHomeScreen";
+import DHomeScreen from "./components/screens/desktop/DHomeScreen";
 
 function App() {
   return (
