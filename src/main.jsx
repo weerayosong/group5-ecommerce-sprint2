@@ -30,6 +30,7 @@ const router = createBrowserRouter([
                 path: '/tracking',
                 element: <DTrackingScreen />,
             },
+            
         ],
     },
 ])

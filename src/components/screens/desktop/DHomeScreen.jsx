@@ -9,6 +9,8 @@ function DHomeScreen() {
             <Link to="catalog">Catalog</Link>
             <br />
             <Link to="/product/:id">productdetail test</Link>
+            <br />
+            <Link to="/tracking">tracking test</Link>
         </>
     )
 }
