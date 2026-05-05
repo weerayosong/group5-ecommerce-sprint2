@@ -67,7 +67,7 @@ const NavBar = () => {
                         />
                     </div>
 
-                    <Link to="/tracking">
+                    <Link to="/cart">
                         <Button
                             variant="outline"
                             size="icon"
